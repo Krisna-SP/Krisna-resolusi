@@ -1,5 +1,7 @@
 RENCANA KONTEN KRISNA
 
 -Javascript
+  * ES6
+  * Fromework Javascript
 -PHP
 -SQL
