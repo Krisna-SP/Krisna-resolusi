@@ -3,5 +3,6 @@ RENCANA KONTEN KRISNA
 -Javascript
   * ES6
   * Fromework Javascript
+-Struktur Data Dasar
 -PHP
 -SQL
