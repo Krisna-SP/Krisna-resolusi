@@ -1,5 +1,8 @@
 RENCANA KONTEN KRISNA
-
+- CSS 3
+- CSS Framework
+  * Bootstrap
+  * Tailwind
 -Javascript
   * ES6
   * Fromework Javascript
