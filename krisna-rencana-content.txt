@@ -3,9 +3,12 @@ RENCANA KONTEN KRISNA
 - CSS Framework
   * Bootstrap
   * Tailwind
--Javascript
+- Javascript
   * ES6
   * Fromework Javascript
--Struktur Data Dasar
--PHP
--SQL
+    > ReactJs
+    > VueJs
+- Typescript
+- Struktur Data Dasar
+- PHP
+- SQL
